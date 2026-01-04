@@ -6,7 +6,11 @@
 
 A comprehensive desktop application for automating report processing workflows across multiple e-commerce platforms including Meesho, Flipkart, and Amazon.
 
-![Report Processing Suite](https://via.placeholder.com/800x400/FF6B35/FFFFFF?text=Report+Processing+Suite)
+<p align="center">
+  <img src="docs/Images/Screenshot 2026-01-04 233718.png" alt="Report Processing Suite - Main Dashboard" width="800">
+  <br>
+  <i>Modern desktop application for e-commerce report automation</i>
+</p>
 
 ## 🌟 Features
 
@@ -178,9 +182,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - Deepak Kumar BS- deepakkumarbscsa2022@gmail.com
+Deepak Kumar BS - deepakkumarbscsa2022@gmail.com
 
-Project Link: [https://github.com/yourusername/report-processing-suite](https://github.com/yourusername/report-processing-suite)
+Project Link: https://github.com/bsdinternet/ReportProcessor.git
 
 ## 🙏 Acknowledgments
 
