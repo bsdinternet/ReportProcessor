@@ -7,7 +7,7 @@
 A comprehensive desktop application for automating report processing workflows across multiple e-commerce platforms including Meesho, Flipkart, and Amazon.
 
 <p align="center">
-  <img src="docs/Images/Screenshot 2026-01-04 233718.png" alt="Report Processing Suite - Main Dashboard" width="800">
+  <img src="Screenshot 2026-01-04 233718.png" alt="Report Processing Suite - Main Dashboard" width="800">
   <br>
   <i>Modern desktop application for e-commerce report automation</i>
 </p>
